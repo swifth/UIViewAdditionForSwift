@@ -65,6 +65,10 @@ class Color {
         
         return UIColor(red:(153/255.0), green:(153/255.0), blue:(153/255.0), alpha:1.0)
     }
+    class func  Kgray_color() ->UIColor{
+        
+        return UIColor(red:(144/255.0), green:(152/255.0), blue:(154/255.0), alpha:1.0)
+    }
 
 }
 
