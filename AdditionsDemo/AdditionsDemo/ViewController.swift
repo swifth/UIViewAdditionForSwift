@@ -53,7 +53,7 @@ class ViewController: UIViewController {
                 
                 labFlag.tag = 20;
             }
-            labFlag.frame = CGRectMake((midView.width() - labWidth*5 - 20)/2+CGFloat(i)*(5+labWidth), topView!.bottom()+63,labWidth, labWidth);
+            labFlag.frame = CGRectMake((midView.width() - labWidth*5 - 20)/2+CGFloat(i)*(5+labWidth), topView!.bottom() + labWidth*2+5*3 ,labWidth, labWidth);
             labFlag.backgroundColor = Color.Kpurple_color();
             midView.addSubview(labFlag);
         }
