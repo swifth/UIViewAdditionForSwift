@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  AdditionsDemo
 //
-//  Created by zerverlee on 15/10/6.
+//  Created by 李志伟 on 15/10/6.
 //  Copyright © 2015年 zerverlee. All rights reserved.
 //
 
